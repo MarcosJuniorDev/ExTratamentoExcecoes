@@ -1,0 +1,15 @@
+C:\Users\junin\Desktop\Estudo C#\Primeira Parte\ExTratamentoExcecao\ExTratamentoExcecao\bin\Debug\net6.0\ExTratamentoExcecao.exe
+C:\Users\junin\Desktop\Estudo C#\Primeira Parte\ExTratamentoExcecao\ExTratamentoExcecao\bin\Debug\net6.0\ExTratamentoExcecao.deps.json
+C:\Users\junin\Desktop\Estudo C#\Primeira Parte\ExTratamentoExcecao\ExTratamentoExcecao\bin\Debug\net6.0\ExTratamentoExcecao.runtimeconfig.json
+C:\Users\junin\Desktop\Estudo C#\Primeira Parte\ExTratamentoExcecao\ExTratamentoExcecao\bin\Debug\net6.0\ExTratamentoExcecao.dll
+C:\Users\junin\Desktop\Estudo C#\Primeira Parte\ExTratamentoExcecao\ExTratamentoExcecao\bin\Debug\net6.0\ExTratamentoExcecao.pdb
+C:\Users\junin\Desktop\Estudo C#\Primeira Parte\ExTratamentoExcecao\ExTratamentoExcecao\obj\Debug\net6.0\ExTratamentoExcecao.csproj.AssemblyReference.cache
+C:\Users\junin\Desktop\Estudo C#\Primeira Parte\ExTratamentoExcecao\ExTratamentoExcecao\obj\Debug\net6.0\ExTratamentoExcecao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\junin\Desktop\Estudo C#\Primeira Parte\ExTratamentoExcecao\ExTratamentoExcecao\obj\Debug\net6.0\ExTratamentoExcecao.AssemblyInfoInputs.cache
+C:\Users\junin\Desktop\Estudo C#\Primeira Parte\ExTratamentoExcecao\ExTratamentoExcecao\obj\Debug\net6.0\ExTratamentoExcecao.AssemblyInfo.cs
+C:\Users\junin\Desktop\Estudo C#\Primeira Parte\ExTratamentoExcecao\ExTratamentoExcecao\obj\Debug\net6.0\ExTratamentoExcecao.csproj.CoreCompileInputs.cache
+C:\Users\junin\Desktop\Estudo C#\Primeira Parte\ExTratamentoExcecao\ExTratamentoExcecao\obj\Debug\net6.0\ExTratamentoExcecao.dll
+C:\Users\junin\Desktop\Estudo C#\Primeira Parte\ExTratamentoExcecao\ExTratamentoExcecao\obj\Debug\net6.0\refint\ExTratamentoExcecao.dll
+C:\Users\junin\Desktop\Estudo C#\Primeira Parte\ExTratamentoExcecao\ExTratamentoExcecao\obj\Debug\net6.0\ExTratamentoExcecao.pdb
+C:\Users\junin\Desktop\Estudo C#\Primeira Parte\ExTratamentoExcecao\ExTratamentoExcecao\obj\Debug\net6.0\ExTratamentoExcecao.genruntimeconfig.cache
+C:\Users\junin\Desktop\Estudo C#\Primeira Parte\ExTratamentoExcecao\ExTratamentoExcecao\obj\Debug\net6.0\ref\ExTratamentoExcecao.dll
